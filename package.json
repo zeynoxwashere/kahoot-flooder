@@ -1,0 +1,17 @@
+{
+  "name": "KahootFlooder",
+  "version": "1.0.0",
+  "description": "Fast NodeJS Kahoot Flooder REVAMP",
+  "main": "KFlood.js",
+  "author": "zeynox",
+  "license": "unlicense",
+  "dependencies": {
+    "beepbeep": "^1.3.0",
+    "console-title": "^1.1.0",
+    "faker": "^5.5.3",
+    "kahoot.js-updated": "^2.2.6",
+    "random-name": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "request": "^2.81.0"
+  }
+}
